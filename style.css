@@ -1,0 +1,35 @@
+body{
+    
+    background-color: lightskyblue;
+  }
+  
+  .menue1{
+      text-align: center;
+      padding-top: 9px;
+      background-color: rgb(199, 183, 183); 
+      height: 40px;
+      padding: 5px;
+      font-size: 26px;
+   
+  }
+  .nav1{
+   margin-top: 2px;
+      padding: 8px;
+      margin-bottom: 2px;
+  }
+  
+  .menue{
+      text-align: center;
+      margin-top: 12px;
+      font-size: 20px;
+      
+  }
+  
+  footer{
+      margin-top: 9px;
+      height: 40px;
+      font-size: 26px;
+     
+      padding-top: 4px;
+      background-color: rgb(199, 183, 183);
+  }
